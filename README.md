@@ -16,7 +16,8 @@ Refer to ```requirements.txt``` for the environment setup
 |   |-- or
 |   |-- tx
 ```
-# Data Preparation
+# Data Collection
+1. Weather actuals/forecasts could be obtained from open-source database, such as the ECMWF by using [Open-Meteo](https://open-meteo.com)
 
 # Experiments
 
