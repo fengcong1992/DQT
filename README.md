@@ -3,7 +3,6 @@ This is the code for our project, titled Deep Quantile Transformer for Day-ahead
 # Rerequisites and environment
 
 # Project/Repository Structure
-.
 |-- code
 |-- data
 |   |-- PE forecasts
