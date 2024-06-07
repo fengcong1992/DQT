@@ -25,7 +25,7 @@ Train DQT models for the four locations and generate daily net load forecasts us
 # Evaluation
 | Location  | PE CRPS | DQT CRPS | DQT CRPSS|
 | --------- | ------- | -------- | -------- |
-| OR  | Content Cell  |
-| GA  | Content Cell  |
-| OR  | Content Cell  |
-| GA  | Content Cell  |
+| OR  | 0.0414  | 0.029 | 0.2995|
+| GA  | 0.0475  | 0.0436 | 0.0821 |
+| TX  | 0.0458  | 0.0368 | 0.1965 |
+| HI  | 0.0848  | 0.085 | -0.0024 |
