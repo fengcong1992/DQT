@@ -17,7 +17,7 @@ Refer to ```requirements.txt``` for the environment setup
 |   |-- tx
 ```
 # Data Collection
-1. Weather actuals/forecasts could be obtained from open-source database, such as the ECMWF by using [Open-Meteo](https://open-meteo.com)
+1. Weather actuals/forecasts could be obtained from open-source database, such as the ECMWF by using [Open-Meteo](https://open-meteo.com). Example see ```download_data.py```
 
 # Experiments
 
