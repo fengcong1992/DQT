@@ -30,3 +30,4 @@ The CRPS and CRPSS are used to used to evaluate the probabilistic net load forec
 | GA  | 0.0475  | 0.0436 | 0.0821 |
 | TX  | 0.0458  | 0.0368 | 0.1965 |
 | HI  | 0.0848  | 0.085 | -0.0024 |
+| Ave.| 0.05488 | 0.0486 | 0.1927 |
