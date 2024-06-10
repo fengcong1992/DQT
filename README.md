@@ -23,6 +23,7 @@ Refer to ```requirements.txt``` for the environment setup
 # Experiments
 Train DQT models for the four locations and generate daily net load forecasts using ```DQT_MainScript.py```
 # Evaluation
+The CRPS and CRPSS are used to used to evaluate the probabilistic net load forecasts. The DQT performances are listed in the following table and could be compared with the top teams in the [competition](https://www.herox.com/net-load-forecasting/leaderboard)
 | Location  | PE CRPS | DQT CRPS | DQT CRPSS|
 | --------- | ------- | -------- | -------- |
 | OR  | 0.0414  | 0.029 | 0.2995|
