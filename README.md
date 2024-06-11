@@ -33,5 +33,5 @@ The CRPS and CRPSS are used to used to evaluate the probabilistic net load forec
 | Ave.| 0.0549  | 0.0486 | 0.1927 |
 
 Detailed results are shown as follows:
-![alt text](https://github.com/fengcong1992/DQT/blob/main/analysis/OR_TS.png)
+![alt text](https://github.com/fengcong1992/DQT/blob/main/analysis/OR_TS.png | width = 100)
 
