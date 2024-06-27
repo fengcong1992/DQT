@@ -26,7 +26,7 @@ Things to change based on your own folder structure:
 2.
 3.
 
-Prepare the data for training and testing by running ```sample_data_process.py''' 
+Prepare the data for training and testing by running ```sample_data_process.py```
 
 Train DQT models for the four locations and generate daily net load forecasts using ```main.py```
 
