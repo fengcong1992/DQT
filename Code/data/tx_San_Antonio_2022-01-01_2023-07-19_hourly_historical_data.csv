@@ -1,4 +1,4 @@
-timestamp,temperature_2m,relativehumidity_2m,dewpoint_2m,apparent_temperature,pressure_msl,surface_pressure,cloudcover,windspeed_10m,winddirection_10m,windgusts_10m,shortwave_radiation,direct_radiation,diffuse_radiation,vapor_pressure_deficit,et0_fao_evapotranspiration
+TimeStamp,temperature_2m,relativehumidity_2m,dewpoint_2m,apparent_temperature,pressure_msl,surface_pressure,cloudcover,windspeed_10m,winddirection_10m,windgusts_10m,shortwave_radiation,direct_radiation,diffuse_radiation,vapor_pressure_deficit,et0_fao_evapotranspiration
 2022-01-01T00:00,25.3,61,17.4,26.7,1003.7,981.4,12,8.6,248,22.7,27,14,13,1.24,0.07
 2022-01-01T01:00,24,70,18.1,25.7,1003.8,981.4,9,8.2,241,29.5,0,0,0,0.9,0.03
 2022-01-01T02:00,22.9,79,19.1,25.1,1004.1,981.6,1,8.4,227,31.7,0,0,0,0.59,0.01
