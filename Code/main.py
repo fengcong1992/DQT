@@ -339,7 +339,7 @@ if __name__ == '__main__':
         # # # #     # task = pretrain
         # # # # # =============================================================================   
             config1 = config_settings(comment='pretraining through imputation', 
-                                     epochs=2, 
+                                     epochs=200, 
                                      experiment_name=experiment_name[i] +'_pretrain',  
                                      data_dir=idata_dir, 
                                      output_path=output_path, 
@@ -360,7 +360,7 @@ if __name__ == '__main__':
         for iloss in range(2):
             for istrategy in strategy:
                 config2 = config_settings(comment='finetune for regression', 
-                                         epochs=2, 
+                                         epochs=50, 
                                          experiment_name=experiment_name[i] +'_finetune_'+criteria[iloss]+'_'+istrategy,  
                                          data_dir=idata_dir, 
                                          output_path=output_path, 
